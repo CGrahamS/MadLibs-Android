@@ -14,7 +14,7 @@ The user fills out the words and selects which story they would like the words t
 |-----------------------------------------------------------------|----------|--------------------|
 | Program navigates to different application views                |          |                    |
 | Program passes a single word from MainActivity to StoryActivity | Caleb    |  Caleb             |
-| Program adds single word to correct place story.                | Caleb    | Caleb went walking |
+| Program adds a single word to the correct place in story.       | Caleb    | Caleb went walking |
 
 ## Setup/Installation Requirements
 
