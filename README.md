@@ -4,9 +4,10 @@
 
 ## Description
 
-Practice in passing user input from one activity to another.
-The MainActivity presents several inputs for different kinds of words.
-The user fills out the words and selects which story they would like the words to fill out.
+* Practice in passing user input from one activity to another.
+* The MainActivity presents several inputs for different kinds of words.
+* The user fills out the words and selects which story they would like the words to fill out.
+* We also chose to store our strings inside the resource file so we could practice consolidating our hard coded strings.
 
 ## Specs
 
@@ -28,8 +29,8 @@ The user fills out the words and selects which story they would like the words t
 
 ## Features to Add
 
-Stories with different and more words.
-Save stories that turned out particularly well.
+1. Stories with different and more words.
+2. Save stories that turned out particularly well.
 
 ## Support and contact details
 
